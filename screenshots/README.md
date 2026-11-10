@@ -4,29 +4,25 @@
 
 ![підсумок тестів](01_tests.png)
 
-### після дії (запуск / форма)
+### діалог: бот відповідає з бази знань і веде опитування
 
-![після дії (запуск / форма)](02_dash1_action.png)
+![діалог: бот відповідає з бази знань і веде опитування](02_dash1_chat_midway.png)
+
+### діалог завершено: лід кваліфіковано, бриф для менеджера
+
+![діалог завершено: лід кваліфіковано, бриф для менеджера](02_dash1_chat_qualified_handoff.png)
 
 ### дашборд: перший екран
 
 ![дашборд: перший екран](02_dash1_overview.png)
 
-### дашборд повністю
+### вкладка: manager hand off queue
 
-![дашборд повністю](02_dash1_overview_full.png)
+![вкладка: manager hand off queue](02_dash1_tab2_manager-hand-off-queue.png)
 
-### вкладка
+### вкладка: knowledge base editor
 
-![вкладка](02_dash1_tab1_interactive-ai-consultant-wi.png)
-
-### вкладка
-
-![вкладка](02_dash1_tab2_manager-hand-off-queue-sessi.png)
-
-### вкладка
-
-![вкладка](02_dash1_tab3_knowledge-base-editor.png)
+![вкладка: knowledge base editor](02_dash1_tab3_knowledge-base-editor.png)
 
 ### довідка CLI
 

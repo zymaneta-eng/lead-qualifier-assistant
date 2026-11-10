@@ -204,11 +204,11 @@ ruff check src tests
 
 ![дашборд: перший екран](screenshots/02_dash1_overview.png)
 
-![після дії (запуск / форма)](screenshots/02_dash1_action.png)
+![підсумок тестів](screenshots/01_tests.png)
 
-![вкладка](screenshots/02_dash1_tab1_interactive-ai-consultant-wi.png)
+![довідка CLI](screenshots/04_cli_1.png)
 
-Усі скріншоти (8): [screenshots/](screenshots/README.md)
+Усі скріншоти (7): [screenshots/](screenshots/README.md)
 
 
 ---
